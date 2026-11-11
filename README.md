@@ -49,3 +49,12 @@ Here are step-by-step instructions to set up the necessary libraries and package
    npm run dev
    ```
 5. **View the website:** Open your browser and go to the link provided in your terminal (usually `http://localhost:5173`).
+
+## About the project
+This project is a landing page for Travel Mate - a service that helps travelers plan their trips and book accommodation in one place. 
+The goal of the page is to introduce the service, show its main benefits and encourage visitors to start their trip.
+
+### Main features 
+- Overview of the Travel Mate services
+- Search and booking request form
+- Responsive design for desktop and mobile
